@@ -1,7 +1,7 @@
 # Operationalizing Machine Learning on SageMaker Project
 
 ## Project Summary
-In this project, you will complete the following steps:
+In this project, we will complete the following steps:
 
 - Train and deploy a model on Sagemaker, using the most appropriate instances. Set up multi-instance training in your Sagemaker notebook.
 - Adjust your Sagemaker notebooks to perform training and deployment on EC2.
